@@ -1,4 +1,4 @@
-
+// valiadation scripts
             function validateStudenDetails(){  
             	var name=document.studentDetailForm.name.value;  
             	var age=document.studentDetailForm.age.value;  
